@@ -6,6 +6,8 @@
   "contact": "Contact",
   "contactme": "Me contacter",
   "presentation": "Développeur FullStack",
+  "aboutTitle": "A propos de moi",
+  "aboutPresentation": "Je m'appelle Enzo Averlant, et j'ai 23 ans. Diplômé d'un BTS SIO Option B SLAM, je suis actuellement en formation en alternance chez Foreach Academy où je prépare le titre professionnel Concepteur Développeur d'Applications.",
   "firstname": "Prénom",
   "lastname": "Nom",
   "subject": "Sujet",
@@ -13,4 +15,4 @@
   "mail": "Adresse email",
   "phone": "Téléphone",
   "send": "Envoyer"
-}
+} 

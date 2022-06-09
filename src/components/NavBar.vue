@@ -17,9 +17,9 @@ const open = ref(false);
     >
       <div class="p-4 flex flex-row items-center justify-between">
         <RouterLink
-          to="#"
-          class="text-lg font-semibold tracking-widest uppercase rounded-lg text-white focus:outline-none focus:shadow-outline"
-          >&lt;Enzo Averlant/&gt;</RouterLink
+          to="/"
+          class="text-lg font-semibold tracking-widest rounded-lg text-white focus:outline-none focus:shadow-outline"
+          >&lt;ea/&gt;</RouterLink
         >
         <button
           class="md:hidden rounded-lg focus:outline-none focus:shadow-outline"
@@ -85,6 +85,7 @@ const open = ref(false);
         class="flex-col flex-grow p-4 sm:pb-0 sm:flex sm:justify-end sm:flex-row md:hidden"
         w:flex="~"
         w:border="~ light-50 rounded-md"
+        w:bg="dark-600"
       >
         <RouterLink
           class="active px-4 py-2 mt-2 text-sm font-semibold rounded-lg md:mt-0 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline"
