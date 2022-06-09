@@ -11,7 +11,7 @@ const { t } = useI18n();
 
 <style>
 .home {
-  height: 100%;
+  height: 80vh;
   justify-content: center;
   display: flex;
   align-items: center;

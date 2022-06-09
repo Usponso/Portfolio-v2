@@ -4,7 +4,7 @@
   <header w:pos="absolute">
     <NavBar />
   </header>
-  <main w:p="60px" w:min-h="screen" w:h="screen">
+  <main w:p="60px" w:min-h="screen">
     <RouterView />
   </main>
   <footer>Copyright 2022</footer>
