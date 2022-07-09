@@ -3,7 +3,7 @@ const { t } = useI18n();
 </script>
 
 <template>
-  <h1 w:m="t-[50px]" w:text="5vw md:3vw">{{ t("aboutTitle") }}</h1>
+  <h1 w:m="t-[50px]" w:text="5vw md:3vw">&lt; {{ t("aboutTitle") }} /&gt;</h1>
   <div w:grid="~ cols-1" w:m="t-[50px]">
     <div class="illustration">
       <img src="../assets/presentation3.svg" />
